@@ -1,0 +1,6 @@
+[book]
+authors = ["Ambrotus"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Prescription Book"
