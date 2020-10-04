@@ -7,4 +7,4 @@ Blueprint also posted in a more userfriendly spot. https://blueprintue.com/bluep
 
 
 
-<iframe src="https://blueprintue.com/render/j2zr1hyq" scrolling="no" allowfullscreen></iframe>
+<iframe src="https://blueprintue.com/render/j2zr1hyq" scrolling="no" allowfullscreen width="100%" height="100%"></iframe>
