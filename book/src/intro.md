@@ -1,6 +1,7 @@
-# The Set Up
+# The Introduction
+This is a portfolio of my horror project with Unreal Engine 4
 
-
+## The Story
 The main character accidently has their glasses broken in the night by their partner. So, the following morning they try to book an appointment with their optometrist to get a new set of glasses and updated prescription. However, they were fully booked up and the main character needs to wait. This sets up the blurry vision mechanic as they will carry what’s left of their glasses as they adventure around their home.
 This was based off an idea of what I see when I take my dog out at night and forget my glasses, just as someone more near sighted.
 
