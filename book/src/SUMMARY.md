@@ -1,4 +1,4 @@
 # Summary
 - [The Set Up](./intro.md)
 - [The Condo Entrance](./chapter_1.md)
-  - [Front Sliding Doors](./condoSlidingDoors.md)
+  - [Front Sliding Proximity Doors](./condoSlidingDoors.md)
