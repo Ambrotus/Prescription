@@ -1,3 +1,3 @@
 # Summary
-
-- [Chapter 1](./chapter_1.md)
+- [The Set Up](./intro.md)
+- [The Condo Entrance](./chapter_1.md)
